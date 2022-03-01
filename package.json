@@ -1,0 +1,29 @@
+{
+  "name": "eslint-plugin-react-html-svg-invalid",
+  "version": "1.0.0",
+  "description": "ESLint plugin to avoid invalid HTML and svg elements",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sai6855/eslint-plugin-react-html-svg-invalid.git"
+  },
+  "author": "sai6855",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sai6855/eslint-plugin-react-html-svg-invalid/issues"
+  },
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin",
+    "react",
+    "eslint-plugin-react",
+    "html",
+    "html-invalid",
+    "svg"
+  ],
+  "homepage": "https://github.com/sai6855/eslint-plugin-react-html-svg-invalid#readme"
+}
